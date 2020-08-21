@@ -1,0 +1,502 @@
+Ejemplo3.exe: 00002500: 10:38:33 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002500: 10:38:33 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002500: 10:38:33 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002500: 10:38:33 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002500: 10:38:33 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00000B9C: 10:38:38 [Requested Theme File not found:]:C:\Users\Ernesto.CAI\JS\1.90.0.1535\uni\css\uni-xtheme-classic.css
+Ejemplo3.exe: 00000B9C: 10:38:38 []:TUniThemeProps: File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\uni\css\uni-xtheme-classic.css
+Ejemplo3.exe: 00002754: 10:38:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\uni\css\uni-ext.css
+Ejemplo3.exe: 00002734: 10:38:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\ext\build\classic\theme-classic\resources\theme-classic-all.css
+Ejemplo3.exe: 00001C54: 10:38:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\ext\build\ext-all.js
+Ejemplo3.exe: 00001C0C: 10:38:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\uni\ext-sync-min.js
+Ejemplo3.exe: 000016EC: 10:38:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\uni\ext-unicommon-min.js
+Ejemplo3.exe: 0000112C: 10:38:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\ext\build\classic\theme-classic\theme-classic.js
+Ejemplo3.exe: 0000210C: 10:38:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\ext\build\classic\locale\locale-es.js
+Ejemplo3.exe: 00002234: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\uni\jQuery\jquery-1.11.2.min.js
+Ejemplo3.exe: 00001BC4: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\ext\build\packages\font-awesome-4.7.0\resources\font-awesome-all.css
+Ejemplo3.exe: 000019E4: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\ext\build\packages\font-pictos\resources\font-pictos-all.css
+Ejemplo3.exe: 00002360: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\ext\build\packages\font-awesome\resources\font-awesome-all.css
+Ejemplo3.exe: 000021E0: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\uni\jQuery\MaskedInput\jquery.inputmask.min.js
+Ejemplo3.exe: 0000287C: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\uni\jQuery\autoNumeric\autoNumeric-1.9.35.js
+Ejemplo3.exe: 0000143C: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\uni\css\uni-xtheme-common.css
+Ejemplo3.exe: 00001260: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\uni\ext-unigui-min.js
+Ejemplo3.exe: 00002498: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\uni\ext-unicommon-min.js
+Ejemplo3.exe: 00002930: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\uni\ext-sync-min.js
+Ejemplo3.exe: 000016D8: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\ext\build\classic\locale\locale-es.js
+Ejemplo3.exe: 00002888: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\uni\jQuery\jquery-1.11.2.min.js
+Ejemplo3.exe: 00002824: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\ext\build\packages\font-awesome-4.7.0\resources\font-awesome-all.css
+Ejemplo3.exe: 00002BE4: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\ext\build\packages\font-pictos\resources\font-pictos-all.css
+Ejemplo3.exe: 00000C94: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\ext\build\packages\font-awesome\resources\font-awesome-all.css
+Ejemplo3.exe: 0000264C: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\uni\jQuery\MaskedInput\jquery.inputmask.min.js
+Ejemplo3.exe: 00000E1C: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\uni\jQuery\autoNumeric\autoNumeric-1.9.35.js
+Ejemplo3.exe: 00001A94: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\uni\css\uni-xtheme-common.css
+Ejemplo3.exe: 000001EC: 10:38:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ernesto.CAI\JS\1.90.0.1535\uni\ext-unigui-min.js
+Ejemplo3.exe: 00002BD8: 10:38:59 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002BD8: 10:38:59 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002BD8: 10:38:59 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002BD8: 10:38:59 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002BD8: 10:38:59 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002BD8: 10:38:59 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002AD4: 11:14:41 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002AD4: 11:14:41 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002AD4: 11:14:41 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002AD4: 11:14:41 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002AD4: 11:14:41 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002AD4: 11:14:41 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002998: 11:14:42 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00001C4C: 11:14:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: gnzC75ylfB106A37AB7 ) : Addr: $0076D443
+Ejemplo3.exe: 00001D08: 11:14:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: gnzC75ylfB106A37AB7 ) : Addr: $0076D443
+Ejemplo3.exe: 000010B0: 11:14:44 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00001EBC: 11:14:45 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00001B6C: 11:14:45 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00001E0C: 11:14:45 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00000F08: 11:14:45 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 000019B0: 11:14:46 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00001A70: 11:14:46 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00001694: 11:14:46 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00000B50: 11:14:46 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 000001C4: 11:14:46 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00000FA4: 11:15:34 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00000FA4: 11:15:34 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00000FA4: 11:15:34 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00000FA4: 11:15:34 [TUniServerModule]:Global Cache Folder Erased. <12> Files deleted.
+Ejemplo3.exe: 00000FA4: 11:15:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00000FA4: 11:15:34 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00000740: 11:15:37 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 0000031C: 11:17:29 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 0000031C: 11:17:29 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 0000031C: 11:17:29 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 0000031C: 11:17:29 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 0000031C: 11:17:29 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 0000031C: 11:17:29 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002BA4: 11:17:34 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00001688: 11:18:12 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00001688: 11:18:12 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00001688: 11:18:12 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00001688: 11:18:12 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00001688: 11:18:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00001688: 11:18:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00000924: 11:18:13 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00001B94: 11:18:15 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00001E0C: 11:18:17 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00002754: 11:39:57 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002754: 11:39:57 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002754: 11:39:57 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002754: 11:39:57 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+Ejemplo3.exe: 00002754: 11:39:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002754: 11:39:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002E8C: 11:39:58 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00001A70: 11:40:00 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 000029B0: 11:40:01 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 000029F0: 11:40:02 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00002EFC: 11:40:02 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00002804: 11:40:02 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 000028FC: 11:40:02 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00000118: 11:40:03 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00002D20: 11:40:03 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00000814: 11:41:05 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00000814: 11:41:05 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00000814: 11:41:05 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00000814: 11:41:05 [TUniServerModule]:Global Cache Folder Erased. <10> Files deleted.
+Ejemplo3.exe: 00000814: 11:41:05 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00000814: 11:41:05 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002C28: 11:41:05 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00001EFC: 11:41:07 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 00002980: 11:41:07 [127.0.0.1]:EConvertError : Cannot assign a nil to a TFont : Addr: $0046F96E
+Ejemplo3.exe: 000022F8: 11:41:53 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 000022F8: 11:41:54 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 000022F8: 11:41:54 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 000022F8: 11:41:54 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+Ejemplo3.exe: 000022F8: 11:41:54 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 000022F8: 11:41:54 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002F60: 11:41:54 [127.0.0.1]:EClassNotFound : Class TShape not found : Addr: $00463D9E
+Ejemplo3.exe: 00002D5C: 11:41:56 [127.0.0.1]:EClassNotFound : Class TShape not found : Addr: $00463D9E
+Ejemplo3.exe: 00002C4C: 11:41:57 [127.0.0.1]:EClassNotFound : Class TShape not found : Addr: $00463D9E
+Ejemplo3.exe: 00002690: 11:41:57 [127.0.0.1]:EClassNotFound : Class TShape not found : Addr: $00463D9E
+Ejemplo3.exe: 00002D88: 11:42:17 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002D88: 11:42:17 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002D88: 11:42:17 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002D88: 11:42:17 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+Ejemplo3.exe: 00002D88: 11:42:17 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002D88: 11:42:17 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002FF4: 11:42:43 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002FF4: 11:42:43 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002FF4: 11:42:43 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002FF4: 11:42:43 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002FF4: 11:42:43 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002FF4: 11:42:43 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00001E28: 11:42:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: C3wAc3nib3106A38BE2 ) : Addr: $0076CA13
+Ejemplo3.exe: 00002774: 11:42:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: C3wAc3nib3106A38BE2 ) : Addr: $0076CA13
+Ejemplo3.exe: 00001108: 11:44:19 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00001108: 11:44:19 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00001108: 11:44:19 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00001108: 11:44:19 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00001108: 11:44:19 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00001108: 11:44:19 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002168: 11:44:20 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1MQPNKzS9k106A38C00 ) : Addr: $0076CA13
+Ejemplo3.exe: 000011D0: 11:44:20 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1MQPNKzS9k106A38C00 ) : Addr: $0076CA13
+Ejemplo3.exe: 00000814: 11:45:52 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00000814: 11:45:52 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00000814: 11:45:52 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00000814: 11:45:52 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00000814: 11:45:52 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00000814: 11:45:52 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 000010F4: 11:46:04 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 000010F4: 11:46:04 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 000010F4: 11:46:04 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 000010F4: 11:46:04 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Ejemplo3.exe: 000010F4: 11:46:04 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 000010F4: 11:46:04 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 0000064C: 11:46:06 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: mGlHppeLmN106A38C71 ) : Addr: $0076CA13
+Ejemplo3.exe: 0000121C: 11:46:06 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: mGlHppeLmN106A38C71 ) : Addr: $0076CA13
+Ejemplo3.exe: 00002BE0: 11:46:07 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\vendor\jquery\jquery.min.js
+Ejemplo3.exe: 00002DB0: 11:46:07 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\vendor\bootstrap\js\bootstrap.bundle.min.js
+Ejemplo3.exe: 00002534: 11:46:07 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\vendor\jquery-easing\jquery.easing.min.js
+Ejemplo3.exe: 00001938: 11:46:07 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\vendor\chart.js\Chart.min.js
+Ejemplo3.exe: 000021E0: 11:46:07 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\js\sb-admin-2.min.js
+Ejemplo3.exe: 00002470: 11:46:07 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\js\demo\chart-area-demo.js
+Ejemplo3.exe: 00002098: 11:46:07 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\js\demo\chart-pie-demo.js
+Ejemplo3.exe: 000020D0: 11:46:07 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\vendor\fontawesome-free\css\all.min.css
+Ejemplo3.exe: 00001614: 11:46:07 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\css\sb-admin-2.min.css
+Ejemplo3.exe: 00000138: 11:46:07 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\img\undraw_posting_photo.svg
+Ejemplo3.exe: 00001EF0: 11:49:08 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00001EF0: 11:49:08 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00001EF0: 11:49:08 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00001EF0: 11:49:08 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00001EF0: 11:49:08 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00001EF0: 11:49:08 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00000120: 11:49:12 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: IrrarN3cZN106A38CEB ) : Addr: $0076CA13
+Ejemplo3.exe: 00002C94: 11:49:12 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: IrrarN3cZN106A38CEB ) : Addr: $0076CA13
+Ejemplo3.exe: 00000A3C: 11:49:13 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\css\sb-admin-2.min.css
+Ejemplo3.exe: 000014D4: 11:49:13 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\vendor\jquery\jquery.min.js
+Ejemplo3.exe: 00002BA8: 11:49:13 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\vendor\bootstrap\js\bootstrap.bundle.min.js
+Ejemplo3.exe: 00002F34: 11:49:13 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\vendor\chart.js\Chart.min.js
+Ejemplo3.exe: 000024DC: 11:49:13 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\js\demo\chart-area-demo.js
+Ejemplo3.exe: 00002FE8: 11:49:13 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\js\demo\chart-pie-demo.js
+Ejemplo3.exe: 00000C34: 11:49:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Invalid URI: /htt'%20+%20'ps://source.unsplash.com/QAB-WJcbgJk/60x60 ) : Addr: $0076CA13
+Ejemplo3.exe: 00002968: 11:49:13 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\img\undraw_posting_photo.svg
+Ejemplo3.exe: 000021B8: 11:49:13 [HandleFileRequest[127.0.0.1]]:Access denied: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\.
+Ejemplo3.exe: 00000118: 11:49:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\vendor\jquery\jquery.min.js
+Ejemplo3.exe: 00001C8C: 11:49:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\vendor\chart.js\Chart.min.js
+Ejemplo3.exe: 00001880: 11:49:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\vendor\bootstrap\js\bootstrap.bundle.min.js
+Ejemplo3.exe: 0000110C: 11:49:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\css\sb-admin-2.min.css
+Ejemplo3.exe: 00001A18: 11:49:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\js\demo\chart-pie-demo.js
+Ejemplo3.exe: 00000580: 11:49:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\js\demo\chart-area-demo.js
+Ejemplo3.exe: 00000DE4: 11:49:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Invalid URI: /htt'%20+%20'ps://source.unsplash.com/QAB-WJcbgJk/60x60 ) : Addr: $0076CA13
+Ejemplo3.exe: 000026CC: 11:49:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\img\undraw_posting_photo.svg
+Ejemplo3.exe: 00002A84: 11:49:16 [HandleFileRequest[127.0.0.1]]:Access denied: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\.
+Ejemplo3.exe: 00001F04: 11:49:50 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00001F04: 11:49:50 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00001F04: 11:49:50 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00001F04: 11:49:50 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00001F04: 11:49:50 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00001F04: 11:49:50 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00001680: 11:49:52 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: JWxayKiWJc106A38DC6 ) : Addr: $0076CA13
+Ejemplo3.exe: 0000089C: 11:49:52 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: JWxayKiWJc106A38DC6 ) : Addr: $0076CA13
+Ejemplo3.exe: 00002EB0: 11:49:52 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\css\sb-admin-2.min.css
+Ejemplo3.exe: 00002D7C: 11:49:52 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\vendor\chart.js\Chart.min.js
+Ejemplo3.exe: 00000814: 11:49:52 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\vendor\bootstrap\js\bootstrap.bundle.min.js
+Ejemplo3.exe: 000021E0: 11:49:52 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\vendor\jquery\jquery.min.js
+Ejemplo3.exe: 00002BFC: 11:49:52 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\js\demo\chart-pie-demo.js
+Ejemplo3.exe: 00002FF4: 11:49:52 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\js\demo\chart-area-demo.js
+Ejemplo3.exe: 00002098: 11:49:53 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Invalid URI: /htt'%20+%20'ps://source.unsplash.com/QAB-WJcbgJk/60x60 ) : Addr: $0076CA13
+Ejemplo3.exe: 000020D0: 11:49:53 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\img\undraw_posting_photo.svg
+Ejemplo3.exe: 00001614: 11:49:53 [HandleFileRequest[127.0.0.1]]:Access denied: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\.
+Ejemplo3.exe: 000020CC: 11:50:20 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 000020CC: 11:50:20 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 000020CC: 11:50:20 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 000020CC: 11:50:20 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 000020CC: 11:50:20 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 000020CC: 11:50:20 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 000009A4: 11:50:20 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: CU2pWqxAYw106A38DF0 ) : Addr: $0076CA13
+Ejemplo3.exe: 000027C4: 11:50:20 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: CU2pWqxAYw106A38DF0 ) : Addr: $0076CA13
+Ejemplo3.exe: 00002C7C: 11:50:20 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\css\sb-admin-2.min.css
+Ejemplo3.exe: 00000804: 11:50:20 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\vendor\jquery\jquery.min.js
+Ejemplo3.exe: 00002EE4: 11:50:21 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\vendor\chart.js\Chart.min.js
+Ejemplo3.exe: 00002B74: 11:50:21 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\vendor\bootstrap\js\bootstrap.bundle.min.js
+Ejemplo3.exe: 00002DC8: 11:50:21 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\js\demo\chart-area-demo.js
+Ejemplo3.exe: 00002A58: 11:50:21 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\js\demo\chart-pie-demo.js
+Ejemplo3.exe: 00000950: 11:50:21 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Invalid URI: /htt'%20+%20'ps://source.unsplash.com/QAB-WJcbgJk/60x60 ) : Addr: $0076CA13
+Ejemplo3.exe: 0000159C: 11:50:21 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\img\undraw_posting_photo.svg
+Ejemplo3.exe: 00002E3C: 11:50:21 [HandleFileRequest[127.0.0.1]]:Access denied: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\.
+Ejemplo3.exe: 00002798: 11:51:02 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002798: 11:51:02 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002798: 11:51:02 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002798: 11:51:02 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002798: 11:51:02 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002798: 11:51:02 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002DDC: 11:51:09 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DpjTTVqxqc106A38E11 ) : Addr: $0076CA13
+Ejemplo3.exe: 00002EF8: 11:51:09 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DpjTTVqxqc106A38E11 ) : Addr: $0076CA13
+Ejemplo3.exe: 00001B94: 11:51:10 [HandleFileRequest[127.0.0.1]]:Access denied: C:\Users\Ismael\Programas_Delphi\Ejemplo3\Win32\Debug\.
+Ejemplo3.exe: 00001FA4: 11:52:07 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00001FA4: 11:52:07 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00001FA4: 11:52:07 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00001FA4: 11:52:07 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00001FA4: 11:52:07 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00001FA4: 11:52:07 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00000B88: 11:52:10 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ETL93o5Yq4106A38E4A ) : Addr: $0076CA13
+Ejemplo3.exe: 00002B50: 11:52:10 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ETL93o5Yq4106A38E4A ) : Addr: $0076CA13
+Ejemplo3.exe: 00002E94: 11:57:31 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002E94: 11:57:31 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002E94: 11:57:31 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002E94: 11:57:31 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002E94: 11:57:31 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002E94: 11:57:31 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002CB0: 11:58:16 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002CB0: 11:58:16 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002CB0: 11:58:16 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002CB0: 11:58:16 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002CB0: 11:58:16 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002CB0: 11:58:16 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00001E08: 11:58:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: VDgUNxJrnx106A39005 ) : Addr: $0076CA13
+Ejemplo3.exe: 00001C7C: 11:58:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: VDgUNxJrnx106A39005 ) : Addr: $0076CA13
+Ejemplo3.exe: 00002B14: 12:12:50 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002B14: 12:12:50 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002B14: 12:12:50 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002B14: 12:12:50 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002B14: 12:12:50 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002B14: 12:12:50 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00000204: 12:15:19 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00000204: 12:15:19 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00000204: 12:15:19 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00000204: 12:15:19 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00000204: 12:15:19 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00000204: 12:15:19 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002AEC: 12:15:20 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: qo5tUQzT5G106A3942C ) : Addr: $0076CA13
+Ejemplo3.exe: 00000A48: 12:15:20 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: qo5tUQzT5G106A3942C ) : Addr: $0076CA13
+Ejemplo3.exe: 00000494: 12:17:09 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00000494: 12:17:09 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00000494: 12:17:09 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00000494: 12:17:09 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00000494: 12:17:09 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00000494: 12:17:09 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00001ABC: 12:17:11 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: r2YVD3UBnQ106A394DA ) : Addr: $0076CA13
+Ejemplo3.exe: 00002820: 12:17:11 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: r2YVD3UBnQ106A394DA ) : Addr: $0076CA13
+Ejemplo3.exe: 00001EA4: 12:18:04 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00001EA4: 12:18:04 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00001EA4: 12:18:04 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00001EA4: 12:18:04 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00001EA4: 12:18:04 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00001EA4: 12:18:04 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00001010: 12:18:09 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: lvtWdK4eqh106A39559 ) : Addr: $0076CA13
+Ejemplo3.exe: 000019A4: 12:18:09 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: lvtWdK4eqh106A39559 ) : Addr: $0076CA13
+Ejemplo3.exe: 000023F0: 12:19:49 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 000023F0: 12:19:49 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 000023F0: 12:19:49 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 000023F0: 12:19:49 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 000023F0: 12:19:49 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 000023F0: 12:19:49 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 0000061C: 12:19:49 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: OgJnm5HQSw106A3959D ) : Addr: $0076CA13
+Ejemplo3.exe: 00001524: 12:19:49 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: OgJnm5HQSw106A3959D ) : Addr: $0076CA13
+Ejemplo3.exe: 00001914: 12:20:29 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00001914: 12:20:29 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00001914: 12:20:29 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00001914: 12:20:29 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00001914: 12:20:29 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00001914: 12:20:29 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00001578: 12:20:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: rsb9z6TOC6106A39610 ) : Addr: $0076CA13
+Ejemplo3.exe: 00002BF4: 12:20:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: rsb9z6TOC6106A39610 ) : Addr: $0076CA13
+Ejemplo3.exe: 000011E0: 12:22:10 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 000011E0: 12:22:10 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 000011E0: 12:22:10 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 000011E0: 12:22:10 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 000011E0: 12:22:11 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 000011E0: 12:22:11 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 000018F8: 12:22:33 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 000018F8: 12:22:33 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 000018F8: 12:22:33 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 000018F8: 12:22:33 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 000018F8: 12:22:33 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 000018F8: 12:22:33 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002E08: 12:22:33 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: SY2ClGtcMP106A396B5 ) : Addr: $0076CA13
+Ejemplo3.exe: 00001DFC: 12:22:33 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: SY2ClGtcMP106A396B5 ) : Addr: $0076CA13
+Ejemplo3.exe: 00002690: 12:23:52 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002690: 12:23:52 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002690: 12:23:52 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002690: 12:23:52 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002690: 12:23:52 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002690: 12:23:52 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00001D8C: 12:23:55 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: EX3jEvcG19106A396CF ) : Addr: $0076CA13
+Ejemplo3.exe: 00002DC4: 12:23:55 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: EX3jEvcG19106A396CF ) : Addr: $0076CA13
+Ejemplo3.exe: 00002980: 12:24:43 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002980: 12:24:43 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002980: 12:24:43 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002980: 12:24:43 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002980: 12:24:43 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002980: 12:24:43 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002D58: 12:24:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: uEBig54np5106A3972D ) : Addr: $0076CA13
+Ejemplo3.exe: 00002F9C: 12:24:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: uEBig54np5106A3972D ) : Addr: $0076CA13
+Ejemplo3.exe: 00001C7C: 12:26:00 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00001C7C: 12:26:00 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00001C7C: 12:26:00 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00001C7C: 12:26:00 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00001C7C: 12:26:00 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00001C7C: 12:26:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 000027C0: 12:26:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: OvynPXPLQs106A39765 ) : Addr: $0076CA13
+Ejemplo3.exe: 00001BC4: 12:26:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: OvynPXPLQs106A39765 ) : Addr: $0076CA13
+Ejemplo3.exe: 00000FCC: 12:26:28 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00000FCC: 12:26:28 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00000FCC: 12:26:28 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00000FCC: 12:26:29 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00000FCC: 12:26:29 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00000FCC: 12:26:29 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 000019F8: 12:26:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 9qDCNgkp8i106A397BF ) : Addr: $0076CA13
+Ejemplo3.exe: 00002A8C: 12:26:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 9qDCNgkp8i106A397BF ) : Addr: $0076CA13
+Ejemplo3.exe: 00002D4C: 12:26:57 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002D4C: 12:26:57 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002D4C: 12:26:57 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002D4C: 12:26:57 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002D4C: 12:26:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002D4C: 12:26:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 000007D0: 12:26:58 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: teeiZag9bD106A397DF ) : Addr: $0076CA13
+Ejemplo3.exe: 00002A84: 12:26:58 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: teeiZag9bD106A397DF ) : Addr: $0076CA13
+Ejemplo3.exe: 00002CA4: 14:06:47 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002CA4: 14:06:47 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002CA4: 14:06:47 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002CA4: 14:06:47 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Ejemplo3.exe: 00002CA4: 14:06:47 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002CA4: 14:06:47 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002FD0: 14:24:51 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002FD0: 14:24:51 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002FD0: 14:24:51 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002FD0: 14:24:51 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Ejemplo3.exe: 00002FD0: 14:24:51 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002FD0: 14:24:51 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00001D2C: 14:24:57 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: PmmegGPrFc106A3B31E ) : Addr: $0076CA13
+Ejemplo3.exe: 00002DFC: 14:24:57 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: PmmegGPrFc106A3B31E ) : Addr: $0076CA13
+Ejemplo3.exe: 00002F2C: 14:26:13 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002F2C: 14:26:13 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002F2C: 14:26:13 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002F2C: 14:26:13 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002F2C: 14:26:13 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002F2C: 14:26:13 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 000016FC: 14:26:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: t1J8kIOdbq106A3B80A ) : Addr: $0076CA13
+Ejemplo3.exe: 000029F4: 14:26:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: t1J8kIOdbq106A3B80A ) : Addr: $0076CA13
+Ejemplo3.exe: 00002C94: 14:28:03 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002C94: 14:28:03 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002C94: 14:28:03 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002C94: 14:28:03 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002C94: 14:28:03 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002C94: 14:28:03 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002550: 14:28:05 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: EVjzuvL7QP106A3B85C ) : Addr: $0076CA13
+Ejemplo3.exe: 00002E30: 14:28:05 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: EVjzuvL7QP106A3B85C ) : Addr: $0076CA13
+Ejemplo3.exe: 00000A0C: 14:30:24 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00000A0C: 14:30:24 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00000A0C: 14:30:24 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00000A0C: 14:30:24 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00000A0C: 14:30:24 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00000A0C: 14:30:24 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00001A44: 14:30:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: w4K57XDcrp106A3B8DC ) : Addr: $0076CA13
+Ejemplo3.exe: 00001D84: 14:30:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: w4K57XDcrp106A3B8DC ) : Addr: $0076CA13
+Ejemplo3.exe: 00002D30: 14:31:19 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002D30: 14:31:19 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002D30: 14:31:19 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002D30: 14:31:19 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002D30: 14:31:19 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002D30: 14:31:19 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 000009E8: 14:31:20 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DaaZqfbjfa106A3B980 ) : Addr: $0076CA13
+Ejemplo3.exe: 00001E5C: 14:31:20 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DaaZqfbjfa106A3B980 ) : Addr: $0076CA13
+Ejemplo3.exe: 00002228: 14:31:32 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002228: 14:31:32 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002228: 14:31:32 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002228: 14:31:32 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002228: 14:31:32 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002228: 14:31:32 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 000021E4: 14:31:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: QxMmLm4zz4106A3B9BD ) : Addr: $0076CA13
+Ejemplo3.exe: 00001EE0: 14:31:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: QxMmLm4zz4106A3B9BD ) : Addr: $0076CA13
+Ejemplo3.exe: 00002A84: 14:33:59 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002A84: 14:33:59 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002A84: 14:33:59 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002A84: 14:33:59 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002A84: 14:33:59 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002A84: 14:33:59 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00001B6C: 14:34:41 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00001B6C: 14:34:41 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00001B6C: 14:34:41 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00001B6C: 14:34:41 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00001B6C: 14:34:41 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00001B6C: 14:34:41 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 0000271C: 14:34:42 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: JqItV24Tqm106A3BA76 ) : Addr: $0076CA13
+Ejemplo3.exe: 000019B8: 14:34:42 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: JqItV24Tqm106A3BA76 ) : Addr: $0076CA13
+Ejemplo3.exe: 00000DE8: 14:44:58 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00000DE8: 14:44:58 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00000DE8: 14:44:58 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00000DE8: 14:44:58 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00000DE8: 14:44:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00000DE8: 14:44:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00000D94: 14:45:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: lzg6voPkMu106A3BAA7 ) : Addr: $0076CA13
+Ejemplo3.exe: 00000FE4: 14:45:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: lzg6voPkMu106A3BAA7 ) : Addr: $0076CA13
+Ejemplo3.exe: 000024BC: 14:45:28 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 000024BC: 14:45:28 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 000024BC: 14:45:28 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 000024BC: 14:45:28 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 000024BC: 14:45:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 000024BC: 14:45:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00001A2C: 14:45:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: F3F4irzhe4106A3BD73 ) : Addr: $0076CA13
+Ejemplo3.exe: 000018FC: 14:45:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: F3F4irzhe4106A3BD73 ) : Addr: $0076CA13
+Ejemplo3.exe: 00001F2C: 14:45:39 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00001F2C: 14:45:39 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00001F2C: 14:45:39 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00001F2C: 14:45:39 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00001F2C: 14:45:39 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00001F2C: 14:45:39 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002AC4: 14:45:40 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: wg4Ip4ogZX106A3BD94 ) : Addr: $0076CA13
+Ejemplo3.exe: 000012A4: 14:45:40 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: wg4Ip4ogZX106A3BD94 ) : Addr: $0076CA13
+Ejemplo3.exe: 00002C20: 14:46:45 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002C20: 14:46:45 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002C20: 14:46:45 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002C20: 14:46:45 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002C20: 14:46:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002C20: 14:46:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002F80: 14:46:45 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: SLxs33bDca106A3BDA1 ) : Addr: $0076CA13
+Ejemplo3.exe: 00001498: 14:46:45 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: SLxs33bDca106A3BDA1 ) : Addr: $0076CA13
+Ejemplo3.exe: 000008D8: 14:48:40 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 000008D8: 14:48:40 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 000008D8: 14:48:40 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 000008D8: 14:48:40 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 000008D8: 14:48:40 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 000008D8: 14:48:40 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002BD0: 14:48:40 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 9Iw8cmJMAE106A3BDEC ) : Addr: $0076CA13
+Ejemplo3.exe: 00000524: 14:48:40 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 9Iw8cmJMAE106A3BDEC ) : Addr: $0076CA13
+Ejemplo3.exe: 00002F74: 14:50:30 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002F74: 14:50:30 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002F74: 14:50:30 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002F74: 14:50:30 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002F74: 14:50:30 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002F74: 14:50:30 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00001624: 14:50:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: uOsRt7cDZk106A3BE72 ) : Addr: $0076CA13
+Ejemplo3.exe: 00000C88: 14:50:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: uOsRt7cDZk106A3BE72 ) : Addr: $0076CA13
+Ejemplo3.exe: 00001B94: 14:50:42 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00001B94: 14:50:42 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00001B94: 14:50:42 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00001B94: 14:50:42 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00001B94: 14:50:42 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00001B94: 14:50:43 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00000204: 14:50:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: HfQOHNJMaw106A3BEF1 ) : Addr: $0076CA13
+Ejemplo3.exe: 00000FC8: 14:50:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: HfQOHNJMaw106A3BEF1 ) : Addr: $0076CA13
+Ejemplo3.exe: 00002B70: 14:51:06 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002B70: 14:51:06 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002B70: 14:51:06 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002B70: 14:51:06 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002B70: 14:51:06 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002B70: 14:51:06 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00002470: 14:51:07 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: HXKXZrpSVs106A3BF00 ) : Addr: $0076CA13
+Ejemplo3.exe: 00002D74: 14:51:07 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: HXKXZrpSVs106A3BF00 ) : Addr: $0076CA13
+Ejemplo3.exe: 00002810: 14:53:28 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002810: 14:53:28 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002810: 14:53:28 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002810: 14:53:28 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002810: 14:53:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002810: 14:53:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00001B8C: 14:53:30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DJIk6CAlKC106A3BF1B ) : Addr: $0076CA13
+Ejemplo3.exe: 00002640: 14:53:30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DJIk6CAlKC106A3BF1B ) : Addr: $0076CA13
+Ejemplo3.exe: 00002B30: 14:59:40 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00002B30: 14:59:40 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00002B30: 14:59:40 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00002B30: 14:59:40 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00002B30: 14:59:40 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00002B30: 14:59:40 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00000494: 14:59:41 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: CMEgO6vbNp106A3BFC1 ) : Addr: $0076CA13
+Ejemplo3.exe: 00000A8C: 14:59:41 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: CMEgO6vbNp106A3BFC1 ) : Addr: $0076CA13
+Ejemplo3.exe: 0000271C: 14:59:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: FH7GqUxBpe106A36925 ) : Addr: $0076CA13
+Ejemplo3.exe: 0000065C: 14:59:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: FH7GqUxBpe106A36925 ) : Addr: $0076CA13

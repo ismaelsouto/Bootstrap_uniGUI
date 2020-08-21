@@ -1,0 +1,164 @@
+object MainForm: TMainForm
+  Left = 0
+  Top = 0
+  ClientHeight = 675
+  ClientWidth = 1046
+  Caption = 'MainForm'
+  OldCreateOrder = False
+  MonitoredKeys.Keys = <>
+  PixelsPerInch = 96
+  TextHeight = 13
+  object UniContainerPanel1: TUniContainerPanel
+    Left = 0
+    Top = 0
+    Width = 1046
+    Height = 305
+    Hint = ''
+    ParentColor = False
+    Align = alClient
+    TabOrder = 0
+    ExplicitTop = 8
+    object UniHTMLFrame1: TUniHTMLFrame
+      Left = 0
+      Top = 0
+      Width = 1046
+      Height = 305
+      Hint = ''
+      HTML.Strings = (
+        '<nav class="navbar navbar-expand-lg navbar-light bg-light">'
+        '  <a class="navbar-brand" href="#">Navbar</a>'
+        
+          '  <button class="navbar-toggler" type="button" data-toggle="coll' +
+          'apse" data-target="#navbarSupportedContent" aria-controls="navba' +
+          'rSupportedContent" aria-expanded="false" aria-label="Toggle navi' +
+          'gation">'
+        '    <span class="navbar-toggler-icon"></span>'
+        '  </button>'
+        '    '
+        
+          '  <div class="collapse navbar-collapse" id="navbarSupportedConte' +
+          'nt">'
+        '    <ul class="navbar-nav mr-auto">'
+        '      <li class="nav-item active">'
+        
+          '        <a class="nav-link" href="#">Home <span class="sr-only">' +
+          '(current)</span></a>'
+        '      </li>'
+        '      <li class="nav-item">'
+        '        <a class="nav-link" href="#">Link</a>'
+        '      </li>'
+        '      <li class="nav-item dropdown">'
+        
+          '        <a class="nav-link dropdown-toggle" href="#" id="navbarD' +
+          'ropdown" role="button" data-toggle="dropdown" aria-haspopup="tru' +
+          'e" aria-expanded="false">'
+        '          Dropdown'
+        '        </a>'
+        
+          '        <div class="dropdown-menu" aria-labelledby="navbarDropdo' +
+          'wn">'
+        '          <a class="dropdown-item" href="#">Action</a>'
+        '          <a class="dropdown-item" href="#">Another action</a>'
+        '          <div class="dropdown-divider"></div>'
+        
+          '          <a class="dropdown-item" href="#">Something else here<' +
+          '/a>'
+        '        </div>'
+        '      </li>'
+        '      <li class="nav-item">'
+        
+          '        <a class="nav-link disabled" href="#" tabindex="-1" aria' +
+          '-disabled="true">Disabled</a>'
+        '      </li>'
+        '    </ul>'
+        '    <form class="form-inline my-2 my-lg-0">'
+        
+          '      <input class="form-control mr-sm-2" type="search" placehol' +
+          'der="Search" aria-label="Search">'
+        
+          '      <button class="btn btn-outline-success my-2 my-sm-0" type=' +
+          '"submit">Search</button>'
+        '    </form>'
+        '  </div>'
+        '</nav>'
+        ''
+        '<div id="cards">'
+        ''
+        '<div class="card" style="width: 18rem;">'
+        
+          '  <img class="card-img-top" src="https://getbootstrap.com/docs/4' +
+          '.5/assets/brand/bootstrap-social.png" alt="Card image cap">'
+        '  <div class="card-body">'
+        '    <h5 class="card-title">Card title</h5>'
+        
+          '    <p class="card-text">Some quick example text to build on the' +
+          ' card title and make up the bulk of the card'#39's content.</p>'
+        '    <a href="#" class="btn btn-primary">Go somewhere</a>'
+        '  </div>'
+        '</div>'
+        '<div class="card" style="width: 18rem;">'
+        
+          '  <img class="card-img-top" src="https://getbootstrap.com/docs/4' +
+          '.5/assets/brand/bootstrap-social.png" alt="Card image cap">'
+        '  <div class="card-body">'
+        '    <h5 class="card-title">Card title</h5>'
+        
+          '    <p class="card-text">Some quick example text to build on the' +
+          ' card title and make up the bulk of the card'#39's content.</p>'
+        '    <a href="#" class="btn btn-primary">Go somewhere</a>'
+        '  </div>'
+        '</div>'
+        '<div class="card" style="width: 18rem;">'
+        
+          '  <img class="card-img-top" src="https://getbootstrap.com/docs/4' +
+          '.5/assets/brand/bootstrap-social.png" alt="Card image cap">'
+        '  <div class="card-body">'
+        '    <h5 class="card-title">Card title</h5>'
+        
+          '    <p class="card-text">Some quick example text to build on the' +
+          ' card title and make up the bulk of the card'#39's content.</p>'
+        '    <a href="#" class="btn btn-primary">Go somewhere</a>'
+        '  </div>'
+        '</div>'
+        '<div class="card" style="width: 18rem;">'
+        
+          '  <img class="card-img-top" src="https://getbootstrap.com/docs/4' +
+          '.5/assets/brand/bootstrap-social.png" alt="Card image cap">'
+        '  <div class="card-body">'
+        '    <h5 class="card-title">Card title</h5>'
+        
+          '    <p class="card-text">Some quick example text to build on the' +
+          ' card title and make up the bulk of the card'#39's content.</p>'
+        '    <a href="#" class="btn btn-primary">Go somewhere</a>'
+        '  </div>'
+        '</div>'
+        ''
+        '</div>')
+      Align = alClient
+      ExplicitLeft = 104
+      ExplicitTop = 8
+      ExplicitWidth = 545
+    end
+  end
+  object UniContainerPanel2: TUniContainerPanel
+    Left = 0
+    Top = 305
+    Width = 1046
+    Height = 370
+    Hint = ''
+    ParentColor = False
+    Align = alBottom
+    TabOrder = 1
+    ExplicitTop = 528
+    ExplicitHeight = 147
+    object UniButton1: TUniButton
+      Left = 448
+      Top = 160
+      Width = 145
+      Height = 57
+      Hint = ''
+      Caption = 'UniButton1'
+      TabOrder = 1
+    end
+  end
+end

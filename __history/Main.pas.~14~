@@ -1,0 +1,42 @@
+unit Main;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIRegClasses, uniGUIForm, uniButton, uniEdit,
+  uniGUIBaseClasses, uniLabel, uniPanel, uniHTMLFrame, Vcl.ExtCtrls, uniSplitter;
+
+type
+  TMainForm = class(TUniForm)
+    UniContainerPanel1: TUniContainerPanel;
+    UniContainerPanel2: TUniContainerPanel;
+    UniHTMLFrame1: TUniHTMLFrame;
+    UniSplitter1: TUniSplitter;
+    UniHTMLFrame2: TUniHTMLFrame;
+    UniSplitter2: TUniSplitter;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+function MainForm: TMainForm;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  uniGUIVars, MainModule, uniGUIApplication;
+
+function MainForm: TMainForm;
+begin
+  Result := TMainForm(UniMainModule.GetFormInstance(TMainForm));
+end;
+
+initialization
+  RegisterAppFormClass(TMainForm);
+
+end.
