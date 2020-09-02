@@ -1,0 +1,12 @@
+Ejemplo3.exe: 0000258C: 09:17:10 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 0000258C: 09:17:10 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 0000258C: 09:17:10 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 0000258C: 09:17:10 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Ejemplo3.exe: 0000258C: 09:17:10 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 0000258C: 09:17:10 [TUniServerModule]:HTTP Server Started on Port: 8077
+Ejemplo3.exe: 00001360: 09:23:06 []:>--------------------------------------------------------------<
+Ejemplo3.exe: 00001360: 09:23:06 [TUniServerModule]:Server First Init.
+Ejemplo3.exe: 00001360: 09:23:06 [TUniServerModule]:Debug Mode = ON
+Ejemplo3.exe: 00001360: 09:23:06 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Ejemplo3.exe: 00001360: 09:23:06 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Ejemplo3.exe: 00001360: 09:23:06 [TUniServerModule]:HTTP Server Started on Port: 8077

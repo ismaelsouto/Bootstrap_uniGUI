@@ -14,6 +14,9 @@ type
     UniHTMLFrame1: TUniHTMLFrame;
     UniContainerPanel2: TUniContainerPanel;
     UniButton1: TUniButton;
+    UniButton2: TUniButton;
+    UniButton3: TUniButton;
+    UniButton4: TUniButton;
     procedure UniFormCreate(Sender: TObject);
   private
     { Private declarations }
@@ -34,7 +37,6 @@ function MainForm: TMainForm;
 begin
   Result := TMainForm(UniMainModule.GetFormInstance(TMainForm));
 end;
-
 
 procedure TMainForm.UniFormCreate(Sender: TObject);
 begin

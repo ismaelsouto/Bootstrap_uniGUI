@@ -18,8 +18,6 @@ object MainForm: TMainForm
     ParentColor = False
     Align = alClient
     TabOrder = 0
-    ExplicitTop = 8
-    ExplicitHeight = 305
     object UniHTMLFrame1: TUniHTMLFrame
       Left = 0
       Top = 0
@@ -137,10 +135,6 @@ object MainForm: TMainForm
         ''
         '</div>')
       Align = alClient
-      ExplicitLeft = 104
-      ExplicitTop = 8
-      ExplicitWidth = 545
-      ExplicitHeight = 305
     end
   end
   object UniContainerPanel2: TUniContainerPanel
@@ -152,20 +146,48 @@ object MainForm: TMainForm
     ParentColor = False
     Align = alBottom
     TabOrder = 1
-    ExplicitLeft = 104
-    ExplicitTop = 520
     DesignSize = (
       1046
       179)
     object UniButton1: TUniButton
-      Left = 448
-      Top = 32
+      Left = 224
+      Top = 64
       Width = 145
       Height = 57
       Hint = ''
       Caption = 'Bot'#243'n'
       Anchors = []
       TabOrder = 1
+    end
+    object UniButton2: TUniButton
+      Left = 375
+      Top = 64
+      Width = 145
+      Height = 57
+      Hint = ''
+      Caption = 'Bot'#243'n'
+      Anchors = []
+      TabOrder = 2
+    end
+    object UniButton3: TUniButton
+      Left = 526
+      Top = 64
+      Width = 145
+      Height = 57
+      Hint = ''
+      Caption = 'Bot'#243'n'
+      Anchors = []
+      TabOrder = 3
+    end
+    object UniButton4: TUniButton
+      Left = 677
+      Top = 64
+      Width = 145
+      Height = 57
+      Hint = ''
+      Caption = 'Bot'#243'n'
+      Anchors = []
+      TabOrder = 4
     end
   end
 end
